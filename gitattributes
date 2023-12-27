@@ -1,0 +1,2 @@
+'*.h5' filter=lfs diff=lfs merge=lfs -text
+multiple_classes_defect_detection_new.h5 filter=lfs diff=lfs merge=lfs -text
